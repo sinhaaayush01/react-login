@@ -1,0 +1,28 @@
+{
+  "addUser": [
+    {
+      "name": "asf sfa",
+      "email": "aayush.sinha@publicissapient.com",
+      "password": "asfa",
+      "id": 1
+    },
+    {
+      "name": "asf qrq",
+      "email": "sinha.aayush01@gmail.com",
+      "password": "asf",
+      "id": 2
+    },
+    {
+      "name": "asfasf safas",
+      "email": "ankitmhn@gmail.com",
+      "password": "asfas",
+      "id": 3
+    },
+    {
+      "name": "AAYUSJ Sinha",
+      "email": "ankitmhn@gmail.com",
+      "password": "hjkjn",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.navigation a {
+  text-decoration: none;
+}
